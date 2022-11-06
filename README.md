@@ -1,5 +1,5 @@
 # Trilha HTML - Dio.me
-## Módulo 02 - HTML I - Conceitos Básicos
+## Desafio 02 - HTML I - Conceitos Básicos
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
 - Formulários
@@ -73,7 +73,7 @@ Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente p
 
 Bora pra cima!
 
-Modificações do desafio original: 
+## Modificações do desafio original: 
 - Adicionei o **Menu** no Header para uma melhor experiência do usuário.
 - Adicionei o **Corpo Clínico e Convênio** no Menu.
 - Em convênio, utilizei o formato tabela para organizar logos dos convênios.
