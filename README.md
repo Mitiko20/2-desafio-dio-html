@@ -72,3 +72,8 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
 
 Bora pra cima!
+
+Modificações do desafio original: 
+- Adicionei o **Menu** no Header para uma melhor experiência do usuário.
+- Adicionei o **Corpo Clínico e Convênio** no Menu.
+- Em convênio, utilizei o formato tabela para organizar logos dos convênios.

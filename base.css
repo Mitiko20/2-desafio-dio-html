@@ -6,9 +6,13 @@ body {
     display: flex;
     justify-content: center;
 }
-
+ul{
+    list-style-type: none;
+    line-height: 1;
+    padding-left: 0px;
+}
 .wrapper {
-    width: 1200px;
+    width: 1000px;
     display: flex;
     margin: 0 auto;
     background-color: aquamarine;
@@ -16,23 +20,42 @@ body {
 .main {
     display: flex;
     flex-flow: column;
-    width: 85%;
+    width: 100%;
 }
 .menu {
     width: 15%;
-    background-color: aqua;
+    background-color: rgb(146, 219, 171);
     padding: 10px 20px 0px;
 }
 .header {
-    background-color: rgb(5, 108, 108);
-    min-height: 150px;
+    background-color: rgb(130, 207, 175);
+    height: 50px;
+    width: 100%;
+    margin:0 auto;
 }
+.header li{
+    display: inline-block;
+    line-height: 1.0;
+    width: auto;
+    margin:0 25px;
+}
+.header a{
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    font-weight: normal;
+  }
 .content {
     background-color: white;
     min-height: 300px;
     padding: 20px;
 }
 .footer {
-    background-color: rgb(99, 56, 240);
+    background-color: rgb(74, 156, 101);
     min-height: 150px;
+}
+.footer img{
+    margin-right: 10px;
+}
+.convenio-espaco{
+    margin:0 45px;   
 }
